@@ -1007,8 +1007,7 @@ textarea {
     @media only screen and (max-width: 767px) {
       .breadcumb-area .breadcumb-title {
         font-size: 30px; } }
-  .breadcumb-area::after {
-    background-color: rgba(230, 241, 255, 0.75);
+  .breadcumb-area::after {0, 0, 0, 0);
     content: '';
     top: 0;
     left: 0;
